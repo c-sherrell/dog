@@ -1,9 +1,7 @@
 import requests
 from PIL import Image
 import io
-import dog
 
-dog.get_img()
 
 print("Endpoint Hit:  http://127.0.0.1:5000/get/dog/image")
 img_route = 'http://127.0.0.1:5000/get/dog/image'

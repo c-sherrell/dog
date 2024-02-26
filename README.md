@@ -62,3 +62,8 @@ RECEIVE
         fact_response_content = fact_response.content
         fact = fact.decode('utf-8')
         print(fact)
+        
+UML SEQUENCE DIAGRAM
+[CS361 Microservice UML Sequence Diagram.pdf](https://github.com/c-sherrell/dog/files/14399637/CS361.Microservice.UML.Sequence.Diagram.pdf)
+
+

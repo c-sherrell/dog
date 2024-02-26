@@ -64,6 +64,7 @@ RECEIVE
         print(fact)
         
 UML SEQUENCE DIAGRAM
-[CS361 Microservice UML Sequence Diagram.pdf](https://github.com/c-sherrell/dog/files/14399637/CS361.Microservice.UML.Sequence.Diagram.pdf)
+[embed]https://github.com/c-sherrell/dog/files/14399637/CS361.Microservice.UML.Sequence.Diagram.pdf[/embed]
+
 
 
